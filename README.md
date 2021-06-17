@@ -24,7 +24,7 @@ A case study of a pizza place somewhere in the US of determining the relationshi
 Python & Pycharm should be downloaded from website, all others should be standardly included.
 ### Collaboration
 ***
-Collaboration can be made to make this more of a case study instead of data analysis or research project.
+Collaboration can be made to make this more of a case study instead of a data analysis or research project.
 ### FAQs
 ***
 1. **Why is this case study of a pizza place somewhere in the US important to perform?**
