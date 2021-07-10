@@ -1,6 +1,6 @@
 # Pizza
 ***
-A case study of a pizza place somwehere in the US.
+A case study of a pizza place somewhere in the US.
 ## Table of contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
